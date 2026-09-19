@@ -1,6 +1,8 @@
-# template-repo
+# Unofficial Lightburn Writer Demo
 
 ## Overview
+
+Single Page Application (SPA) demo page demonstrating the features of of the unofficial-lb-writer NPM package.  User can choose from set of phrases, select image from a set of SVG images, and then generate a file which can be imported into Lightburn.  Demo page will be deployed on Vercel.
 
 ## Getting Started
 
