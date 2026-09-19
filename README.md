@@ -8,11 +8,31 @@ Single Page Application (SPA) demo page demonstrating the features of of the uno
 
 ### Prerequisites
 
+- Node.js 20+
+
 ### Installation
+
+```sh
+npm install
+```
 
 ### Usage
 
+```sh
+npm run dev       # start the local dev server
+npm run build     # type-check and build for production
+npm run preview   # preview the production build
+npm run lint      # lint with oxlint
+```
+
 ### Examples
+
+1. Pick one of the preset phrases.
+2. Pick one of the built-in SVG images (star, heart, hexagon, arrow, lightning bolt, house).
+3. Review the combined preview.
+4. Click **Generate & Download .lbrn2** to download a LightBurn-ready project file with the
+   image cut as a vector path and the phrase engraved as text, built with
+   [`@richardmcquiston01/unofficial-lb-writer`](https://www.npmjs.com/package/@richardmcquiston01/unofficial-lb-writer).
 
 ## Buy Me a Coffee
 
