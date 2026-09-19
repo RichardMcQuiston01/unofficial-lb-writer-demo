@@ -6,4 +6,6 @@ export const PHRASES: readonly string[] = [
   'Live, Laugh, Laser',
   'Thanks For Everything',
   'Best Day Ever',
+  'Congratulations',
+  "You're a Star",
 ];
